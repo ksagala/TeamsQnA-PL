@@ -659,19 +659,21 @@ organizacji.
 
 Kod PIN może zostać zresetowany tylko przez administratora organizacji.
 
-# Jakie polecenia konsoli wybierania numerów w trakcie spotkania są obsługiwane?
+# Jakie opcje dostępne są dla użytkowników wdzwaniających się na telekonferencję?
 
 \*6 (Wyciszenie/Odłączenie wyciszenia)
 
 \*1 (Odtwarzanie dostępnych opisów poleceń klawiatury)
 
-# Czy uczestnicy mogą dzwonić na międzynarodowe numery telefonów, gdy są na spotkaniu usługi Microsoft Teams?
+# Czy uczestnicy telekonferencji mogą wdzwaniać się na międzynarodowe numery telefonów?
 
 Tak, uczestnicy mogą wybierać numery na całym świecie i zapraszać innych
-rozmówców na spotkanie usługi Microsoft Teams. Zobacz: <u>Wybieranie
-numeru</u>
+rozmówców na spotkanie usługi Microsoft Teams. Zobacz: [Wybieranie
+numeru ze spotkania usługi Microsoft Teams, aby inne osoby mogły do
+niego
+dołączyć](https://docs.microsoft.com/pl-PL/microsoftteams/dialing-out-from-a-teams-meeting-so-other-people-can-join-it).
 
-# [ze spotkania usługi Microsoft Teams, aby inne osoby mogły do niego dołączyć.](https://docs.microsoft.com/en-us/microsoftteams/dialing-out-from-a-teams-meeting-so-other-people-can-join-it)Czy moje spotkania w zespołach są również wyświetlane w kalendarzu Outlook?
+# Czy moje spotkania w zespołach są również wyświetlane w kalendarzu Outlook?
 
 Jeśli planujesz spotkanie w programie Teams, pojawi się on w obszarze
 "**Kalendarz**" w zespołach i w kalendarzu programu Outlook.
@@ -679,18 +681,17 @@ Jeśli planujesz spotkanie w programie Teams, pojawi się on w obszarze
 UWAGA: Kalendarz programu Outlook jest używany zarówno w aplikacji
 Teams, jak i programie Outlook
 
-# Jak udostępnić pliki w programie Teams?
+# Jak mogę udostępniać pliki w programie Teams?
 
 Każdy kanał ma kartę o nazwie **"Pliki"**. Tam można przesyłać [pliki w
-zespołach](https://support.microsoft.com/en-us/office/dela-en-fil-i-teams-0c4d34ee-5dd8-46d5-ab35-0d227b5e6eb5).
+zespołach](https://support.microsoft.com/pl-pl/office/udost%C4%99pnianie-plik%C3%B3w-w-aplikacji-teams-0c4d34ee-5dd8-46d5-ab35-0d227b5e6eb5).
 Możesz też udostępniać pliki na czacie swojego kanału. Zostaną one
 automatycznie znalezione w zakładce **"Pliki"** kanału.
 
 Pliki udostępnione na czacie prywatnym lub grupowym można udostępniać
-osobom w tej konwersacji.
-
-Dokumenty można drukować, udostępniać ani współpracować nad nimi w
-czasie rzeczywistym bez opuszczania platformy Teams.
+osobom w tej konwersacji. Dokumenty można drukować, udostępniać ani
+współpracować nad nimi w czasie rzeczywistym bez opuszczania platformy
+Teams.
 
 # Jak otworzyć plik w programie SharePoint z programu Teams?
 
@@ -711,7 +712,7 @@ zarządzania dokumentem:
 widoku programu SharePoint. Jeśli to możliwe, zrób to bezpośrednio w
 Teams.
 
-# Jak wysłać wiadomość e-mail na kanał w aplikacji Teams?
+# Jak wysłać e-mail do kanału w Teams?
 
 **Najlepsze:** Wybierz przycisk "Udostępnij zespołom" bezpośrednio z
 wiadomości w Outlooku.
@@ -720,16 +721,16 @@ wiadomości w Outlooku.
 
 Każdy kanał ma swój adres e-mail i można [wysyłać e-maile bezpośrednio
 do kanału
-Teams](https://support.microsoft.com/en-us/office/skicka-e-post-till-en-kanal-i-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e?ui=en-us&rs=en-us&ad=se).
+Teams](https://support.microsoft.com/pl-pl/office/wysy%C5%82anie-wiadomo%C5%9Bci-e-mail-do-kana%C5%82u-w-aplikacji-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
 Aby to zrobić, znajdź kanał, do którego chcesz wysłać pocztą e-mail, i
 kliknij nazwę kanału. Wybierz pozycję **Więcej opcji** i wybierz pozycję
-Pobierz **adres e-mail** i skopiuj.
+**Pobierz** **adres e-mail** i skopiuj wyświetloną wartość.
 
 W programie Outlook prześlij wiadomość e-mail na adres e-mail kanału.
 Zobaczysz wiadomość e-mail w kanale, do którego ją wyślesz. Wszystkie
 załączniki są wyodrębniane i zapisywane w obszarze **Pliki** w kanale.
 
-Wskazówka: możesz zapisać adres e-mail swojego kanału w programie
+**Wskazówka:** możesz zapisać adres e-mail swojego kanału w programie
 Outlook, aby szybko przesłać wszystkie otrzymane wiadomości e-mail na
 ten adres e-mail.
 
@@ -738,11 +739,11 @@ ten adres e-mail.
 Spotkania można konfigurować z poziomu aplikacji Microsoft Teams lub
 Outlook. Spotkanie będzie postrzegane w ten sam sposób. Możesz
 [zarezerwować spotkanie bezpośrednio w
-Teams!](https://support.microsoft.com/en-us/office/schemal%C3%A4gga-ett-m%C3%B6te-i-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAACAAA=Dator)
+Teams!](https://support.microsoft.com/pl-pl/office/planowanie-spotkania-w-aplikacji-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAACAAA=Dator)
 
 Aby zaplanować spotkanie bezpośrednio z poziomu Teams:
 
--   W obszarze Teams przejdź do **kalendarza** i kliknij pozycję
+-   W lewym menu Teams przejdź do **kalendarza** i kliknij pozycję
     **Nowe** **spotkanie.**
 
 -   Wybierz osoby i/lub kanał, który chcesz zaprosić.
@@ -763,12 +764,10 @@ Aby zaplanować spotkanie w programie Outlook:
 
 -   W stosownych przypadkach dołącz salę konferencyjną.
 
-# Jak dołączyć do spotkania zespołu?
+# Jak dołączyć do spotkania w Teams?
 
-[Możesz dołączyć do
-zespołu](https://support.microsoft.com/en-us/office/ansluta-till-ett-m%C3%B6te-i-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9#ID0EAACAAA=Dator)
-[w dowolnym
-momencie.](https://support.microsoft.com/en-us/office/ansluta-till-ett-m%C3%B6te-i-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9#ID0EAACAAA=Dator)
+[Możesz dołączyć do spotkania w dowolnym
+momencie.](https://support.microsoft.com/pl-pl/office/do%C5%82%C4%85cz-do-spotkania-w-aplikacji-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
 Kliknij link w zaproszeniu na spotkanie lub wybierz pozycję **Dołącz**
 bezpośrednio w aplikacji Teams.
 
@@ -777,9 +776,9 @@ kalendarz i dołączać i/lub planować spotkania zespołów. Jeśli twoja
 organizacja oferuje konferencje audio jako opcję, w zaproszeniu na
 spotkanie pojawi się dodatkowo numer telefonu.
 
-# Jak dołączyć do spotkania w aplikacji Teams z mojego urządzenia mobilnego?
+# Jak dołączyć do spotkania w Teams z mojego telefonu?
 
-Na urządzeniu mobilnym otwórz aplikację Usługi Teams i naciśnij pozycję
+Na urządzeniu mobilnym otwórz aplikację Teams i naciśnij pozycję
 Kalendarz. Następnie kliknij przycisk **Dołącz** dla żądanego spotkania.
 [Zobacz ten link, aby uzyskać więcej
 opcji](https://support.microsoft.com/pl-pl/office/do%C5%82%C4%85cz-do-spotkania-w-aplikacji-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
@@ -807,7 +806,7 @@ kanale](https://support.microsoft.com/pl-pl/office/wysy%c5%82anie-wiadomo%c5%9bc
 > [rozpocznij
 > czat.](https://support.microsoft.com/pl-pl/office/rozpoczynanie-czatu-w-aplikacji-teams-0c71b32b-c050-4930-a887-5afbe742b3d8?ui=pl-PL&rs=pl-PL&ad=PL)
 
-# Czym jest kanał Teams?
+# Czym jest kanał zespołu?
 
 Kanały to przestrzenie współpracy w zespole, w którym wykonywana jest
 sama praca. Kanały to dedykowane sekcje w zespole, aby rozdzielić
@@ -818,10 +817,10 @@ w którym wszyscy członkowie zespołu mogą otwarcie prowadzić rozmowy.
 Pliki udostępniane na czacie w kanale są zorganizowane na karcie
 **Pliki** w każdym kanale.
 
-# Kim jest właściciel zespołu?
+# Kim są właściciele zespołów?
 
 Właścicielem zespołu jest osoba, która tworzy i/lub administruje
-zespołem. Właściciele zespołu mogą zmienić członkowie ich zespołu na
+zespołem. Właściciele zespołu mogą zmienić członków ich zespołu na
 właścicieli zespołu, gdy zaproszą ich do zespołu lub w dowolnym momencie
 po dołączeniu do zespołu. W przypadku wielu właścicieli zespołów możesz
 współdzielić się odpowiedzialnością za zarządzanie ustawieniami i
@@ -836,7 +835,7 @@ memów. Wreszcie, pamiętaj, aby mieć co najmniej dwóch właścicieli
 zespołu. Gwarantuje to alternatywny kontakt w przypadku, gdy jeden z
 właścicieli jest niedostępny.
 
-# Co to jest Kanał Ogólny?
+# Czym jest Kanał Ogólny?
 
 Domyślnie kanał **Ogólny** jest tworzony dla Ciebie w każdym zespole.
 Istnieje wiele przydatnych powodów istnienia kanału **Ogólny**:
@@ -856,7 +855,7 @@ alfabetycznie po kanale Ogólne. Obecnie nie można usunąć kanału ogólne.
 
 Dostępne są dwie opcje: [Utwórz zespół od
 podstaw](https://support.microsoft.com/pl-pl/office/tworzenie-zespo%c5%82u-od-podstaw-174adf5f-846b-4780-b765-de1a0a737e2b?ui=pl-PL&rs=pl-PL&ad=PL)
-lub z szablonu /istniejącego zespołu.
+lub z szablonu/istniejącego zespołu.
 
 Aby utworzyć zespół:
 
@@ -910,22 +909,22 @@ Po utworzeniu zespołu możesz zapraszać inne osoby. Można dodawać
 poszczególnych użytkowników, grupy, a nawet całe grupy kontaktów (listy
 dystrybucyjne).
 
-Wskazówka: Nie zapominaj, że powinno być co najmniej dwóch właścicieli
-zespołu w każdym zespole Teams.
+**Wskazówka:** Nie zapominaj, że powinno być co najmniej dwóch
+właścicieli zespołu w każdym zespole Teams.
 
-# Jak dodać kolejnych właścicieli zespołów?
+# Jak mogę dodać kolejnych właścicieli zespołów?
 
-Znajdź utworzony zespół, kliknij pozycję Więcej opcji \> Zarządzanie
-zespołem.
+Znajdź utworzony zespół, kliknij pozycję **... \> Zarządzanie
+zespołem**.
 
-Następnie przejdź do karty Członkowie. Znajdź osoby, które chcesz
+Następnie przejdź do karty **Członkowie**. Znajdź osoby, które chcesz
 wyznaczyć jako właściciela zespołu. W obszarze Rola kliknij pozycję
 Właściciel.
 
-Wskazówka: Nie zapominaj, że powinno być co najmniej dwóch właścicieli
-zespołu w każdym zespole Teams.
+**Wskazówka:** Nie zapominaj, że powinno być co najmniej dwóch
+właścicieli zespołu w każdym zespole Teams.
 
-# Jak @wzmiankować kanał?
+# Jak mogę @wskazać kanał?
 
 Aby przyciągnąć uwagę wszystkich w kanale, @wzmiankuj kanał.
 
@@ -937,7 +936,7 @@ Typ powiadomienia zależy od ustawień indywidualnych. Używaj tej opcji
 oszczędnie, ponieważ jest to jak użycie "odpowiedz wszystkim" w
 wiadomości e-mail.
 
-# Czy można przyciągnąć uwagę poszczególnych użytkowników w kanale?
+# Czy można przyciągnąć uwagę konkretnego użytkownika w kanale?
 
 Aby przyciągnąć czyjąś uwagę podczas rozmowy w kanale lub na czacie,
 @wzmiankuj tę osobę. Wystarczy wpisać @ potem nazwisko i wybrać je z
@@ -950,7 +949,7 @@ Zacznij od wpisywania imienia, a podczas dalszego pisania zostanie
 wyświetlona osoba lub lista pasujących osób. Wybierz osobę, którą chcesz
 @wzmiankować.
 
-# Jak @wzmiankować cały zespół?
+# Jak zwrócić uwagę (wzmiankować) całego zespołu?
 
 Aby przyciągnąć uwagę wszystkich w zespole należy w konwersacji
 @wzmiankować nazwę zespołu. Wystarczy wpisać @ przed nazwą zespołu, a
@@ -961,7 +960,7 @@ powiadomienie. Typ powiadomienia zależy od ustawień każdej osoby. Używaj
 tej opcji oszczędnie, ponieważ jest to jak użycie "odpowiedz wszystkim"
 w wiadomości e-mail.
 
-# Jak zmienić powiadomienia zespołów?
+# Jak zmienić ustawienia powiadomień zespołu?
 
 Usługa Microsoft Teams oferuje różne sposoby uzyskiwania dostępu do
 powiadomień, odbierania i zarządzania nimi.
@@ -977,7 +976,7 @@ Powiadomienia.
 Zobacz więcej informacji o [zarządzaniu powiadomieniami w
 Teams](https://support.microsoft.com/pl-pl/office/zarz%C4%85dzanie-powiadomieniami-w-aplikacji-teams-1cc31834-5fe5-412b-8edb-43fecc78413d).
 
-# Jak edytować wysłaną wiadomość?
+# Jak zmodyfikować wysłaną wiadomość?
 
 Możesz edytować wszystkie wiadomości wysłane na czat lub kanał. Przejdź
 do wiadomości i wybierz pozycję **Więcej opcji** \> **Edytuj**. Wprowadź
@@ -990,9 +989,9 @@ opcję.*
 
 # Gdzie mogę zmienić ustawienia zespołu?
 
-Przejdź do nazwy zespołu i kliknij pozycję **Więcej** **opcji** \>
-**Zarządzaj zespołem**. Stamtąd możesz uzyskać dostęp do ustawień
-swojego zespołu, które pozwalają:
+Przejdź do nazwy zespołu i kliknij pozycję **...** \> **Zarządzaj
+zespołem**. Stamtąd możesz uzyskać dostęp do ustawień swojego zespołu,
+które pozwalają:
 
 -   Zmienić obraz zespołu.
 
@@ -1004,7 +1003,7 @@ swojego zespołu, które pozwalają:
 
 -   I więcej
 
-# Czy mogę używać znaków specjalnych dla nazwy mojego kanału?
+# Czy mogę używać znaków specjalnych w nazwach kanału?
 
 Nazwa kanału musi zaczynać się od litery. Następnie można edytować nazwę
 i dodać ikonę w celu zwiększenia zrozumienia
@@ -1016,41 +1015,44 @@ Znaki: \~ # % & \* { } + / \\ : \< \> ? \|' ' .
 Słowa: Forms, CON, CONIN$, CONOUT$, PRN, AUX, NUL, COM1 do COM9, LPT1 do
 LPT9, desktop.ini, \_vti\_
 
-Uwaga: Nazwy kanałów nie mogą zaczynać się od podkreślenia (\_) lub
+**Uwaga:** Nazwy kanałów nie mogą zaczynać się od podkreślenia (\_) lub
 kropki (.), ani kończyć kropką(.).
 
-# Jak tworzyć piękne posty?
+# Jak tworzyć piękne wpisy?
 
 Możesz dodawać zdjęcia, emotikony, animowane GIF-y, naklejki i inne.
 
 Możesz użyć tytułu, aby wyróżnić swój post. To pomoże Ci go znaleźć
 później.
 
-# Jak mogę tytułować moje posty?
+# Jak mogę dodać tytuł do wpisu?
 
 Możesz użyć tytułu i podtytułów, aby wyróżnić swój temat. To pomoże Ci
 go później wyszukać. Aby dodać ten tekst, zaznacz przycisk formatowania
 (wygląda jak A za pomocą pióra) i dodaj tytuł.
 
-# Jak zrobić ogłoszenie?
+# Jak mogę stworzyć ogłoszenie?
 
 Możesz zrobić ogłoszenie, które wyróżnia się od reszty rozmów i naprawdę
-łatwo go zauważyć
+łatwo go zauważyć.
 
 Aby utworzyć ogłoszenie, wybierz przycisk formatowania (wygląda jak A za
 pomocą pióra) i menu rozwijane \| Nowa konwersacja i wybierz pozycję
 Ogłoszenie.
 
-Dodatkowo można wybrać obraz tła dla większego efektu
+Dodatkowo można wybrać obraz tła dla większego efektu.
 
 # W jaki sposób goście dołączają do zespołu?
 
 Aby dodać gościa do swojego zespołu w aplikacji Teams: z lewego menu
 wybierz pozycję **Zespoły** i przejdź do swojego zespołu na liście
-zespołów. Wybierz pozycję **Więcej opcji** \> **Dodaj członka**.
-Wprowadź adres e-mail gościa.
+zespołów. Wybierz pozycję **...** \> **Dodaj członka**. Wprowadź adres
+e-mail gościa.
 
-# Czym jest gość w aplikacji Teams?
+**UWAGA:** Administrator środowiska może ograniczyć możliwość dodawania
+gości tylko do wybranych użytkowników lub administratorów.
+
+# Kim jest gość zespołu?
 
 Dostęp dla gości umożliwia zespołom w organizacji współpracę z osobami
 spoza organizacji, dając im dostęp do istniejących zespołów i kanałów w
@@ -1065,25 +1067,25 @@ i dołączyć do czatów zespołowych, spotkań i plików.
 
 Masz kilka opcji wyszukiwania i filtrowania, które ułatwiają znajdowanie
 wiadomości, osób, plików i innych informacji udostępnionych w aplikacji
-Teams. Rozpocznij wyszukiwanie z pola wyszukiwania u góry aplikacji. Po
-wpisaniu wyrazu lub nazwy zespoły zaczną wymyślać sugestie. Kliknij
-jeden z sugerowanych elementów lub naciśnij klawisz Enter, aby uzyskać
-pełną listę wyników. Zostaniesz przesuń na stronę wyników wyszukiwania.
-Wybierz jeden z elementów, aby uzyskać pełny widok na nim lub użyć
-dodatkowych filtrów.
+Teams. Rozpocznij wyszukiwanie w polu wyszukiwania u góry aplikacji. Po
+wpisaniu wyrazu lub nazwy zespołu zaczną wyświetlać się sugestie.
+Kliknij jeden z sugerowanych elementów lub naciśnij klawisz Enter, aby
+uzyskać pełną listę wyników. Zostaniesz przeniesiony na stronę wyników
+wyszukiwania. Wybierz jeden z elementów, aby uzyskać pełny widok na nim
+lub użyć dodatkowych filtrów.
 
-Podpowiedź: Użyj CTRL + F (CMD + F na macOS), aby znaleźć wiadomości gdy
-jesteś w określonym czacie lub kanale w zespołach. <u>[Wyszukiwanie
-wiadomości i innych opcji w
+**Podpowiedź:** Użyj CTRL + F (CMD + F na macOS), aby znaleźć
+wiadomości, gdy jesteś w określonym czacie lub kanale w zespołach.
+<u>[Wyszukiwanie wiadomości i innych opcji w
 zespołach](https://support.microsoft.com/pl-pl/office/wyszukiwanie-wiadomo%c5%9bci-i-innych-funkcji-w-teams-4a351520-33f4-42ab-a5ee-5fc0ab88b263?ui=pl-PL&rs=pl-PL&ad=PL).</u>
 
-# Gdzie mogę znaleźć dodatek programu Outlook add-in dla spotkań Teams?
+# Gdzie mogę znaleźć dodatek do spotkań Teams w aplikacji Outlook?
 
 Dodatek **Spotkanie w aplikacji Teams** jest automatycznie instalowany
 dla użytkowników, którzy mają pakiet Microsoft Teams i pakiet Office
 2013, Office 2016 lub Office 2019 zainstalowany na komputerze z systemem
-Windows. Użytkownicy widzą na wstążce wereksie w kalendarzu programu
-Outlook spotkanie Zespoły "add-in" .
+Windows. Użytkownicy widzą na wstążce w kalendarzu programu Outlook
+przycisk Spotkanie w aplikacji Teams.
 
 Korzystanie [<u>z dodatku Spotkania zespołów w programie
 Outlook</u>](https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook)
@@ -1091,7 +1093,7 @@ Outlook</u>](https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-ou
 W przypadku aplikacji Outlook w sieci Web spotkania Teams są tworzone
 automatycznie, gdy uczestnicy są zapraszani (funkcję można wyłączyć).
 
-# Nagrywanie spotkania w Teams?
+# Nagrywanie spotkania w Teams
 
 W usłudze Microsoft Teams użytkownicy mogą nagrywać spotkania Teams i
 rozmowy grupowe i rejestrować audio, wideo i udostępnianie ekranu.
@@ -1107,12 +1109,12 @@ Zobacz ten artykuł, aby uzyskać szczegółowe informacje: <u>[Nagrywanie
 spotkań
 Teams](https://docs.microsoft.com/en-us/microsoftteams/cloud-recording#:~:text=Teams%20cloud%20meeting%20recording%201%20Prerequisites%20for%20Teams,4%20Compliance%20and%20eDiscovery%20for%20meeting%20recordings.%20).</u>
 
-# Jak nagrać spotkanie?
+# Jak mogę nagrać spotkanie?
 
 Rozpocznij lub dołącz do spotkania.
 
-Aby rozpocząć nagrywanie, przejdź do opcji **Więcej opcji "..."** i
-wybierz pozycję **Rozpocznij** **nagrywanie**. Wszyscy na spotkaniu są
+Aby rozpocząć nagrywanie, przejdź do opcji spotkania **"..."** i wybierz
+pozycję **Rozpocznij** **nagrywanie**. Wszyscy na spotkaniu są
 informowani, że rozpoczęło się nagrywanie, a wiadomość na czacie to
 potwierdza. Zakończ nagrywanie w ten sam sposób.
 
@@ -1124,21 +1126,21 @@ Teams](https://support.microsoft.com/pl-pl/office/nagrywanie-spotkania-w-us%c5%8
 Organizatorzy spotkania mogą wyświetlać i pobierać raport o obecności na
 spotkaniach. Znajdź ten raport w okienku Uczestnicy spotkania, klikając
 strzałkę pobierania, jak pokazano poniżej. Raport można pobrać jako plik
-. CSV (można otworzyć w programie Excel).
+.CSV (można otworzyć w programie Excel).
 
 Zobacz ten artykuł, aby uzyskać szczegółowe informacje: [Raport o
 obecności na spotkaniach w usłudze Microsoft
 Teams](https://docs.microsoft.com/en-us/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
 
-# Jak włączyć wyskakujący chat?
+# Jak mogę włączyć chat w osobnym oknie?
 
 Możesz uruchomić chat jeden na jeden lub czat grupowy w osobnym oknie.
 Następnie można zmienić rozmiar, położenie lub zamknąć okno, kiedy
 chcesz. Jest to świetny sposób, aby zrobić wiele, gdy jesteś w spotkaniu
 lub w trakcie rozmowy.
 
-Uwaga: Możesz otworzyć okna kilku rozmów, ale nie tego samego czatu dwa
-razy.
+**Uwaga:** Możesz otworzyć okna kilku rozmów, ale nie tego samego czatu
+dwa razy.
 
 [Czat w oknie
 Teams](https://support.microsoft.com/pl-pl/office/czat-w-oknie-teams-cff95cb0-34af-423f-8f69-fe9106973790?ui=pl-PL&rs=pl-PL&ad=PL)
@@ -1150,9 +1152,9 @@ kanale.
 
 Sprawdź to, jeśli chcesz przejść przewodnik krok po kroku:
 [<u>Przenoszenie lub kopiowanie plików w
-zespołach</u>](https://support.office.com/en-us/article/move-or-copy-files-in-teams-f83ed547-359b-4fc8-bf5a-60467f53dd60)
+zespołach</u>](https://support.microsoft.com/pl-pl/office/przenoszenie-lub-kopiowanie-plik%C3%B3w-w-aplikacji-teams-f83ed547-359b-4fc8-bf5a-60467f53dd60)
 
-# Co to jest usługa Exchange Online?
+# Co to jest Exchange Online?
 
 Usługa Exchange Online jest częścią programu Microsoft 365. Zapewnia
 obsługę poczty elektronicznej i kalendarza. Kliknij ikonę programu
@@ -1167,7 +1169,7 @@ nieaktywne zespoły, które nie są w użyciu i usuwa bałagan.
 Zobacz ten [<u>artykuł o Wygasaniu i Odnawianiu zespołów w
 Teams</u>](https://docs.microsoft.com/en-us/microsoftteams/team-expiration-renewal)
 
-# Czy możemy ograniczać, kto może tworzyć zespoły?
+# Czy możemy ograniczyć, kto może tworzyć zespoły?
 
 Domyślnie wszyscy użytkownicy ze skrzynką pocztową usługi Exchange
 Online mają uprawnienia do tworzenia grup usługi Microsoft 365, a co za
@@ -1180,30 +1182,26 @@ Aby uzyskać instrukcje, zobacz artykuł [Zarządzanie tym, kto może
 tworzyć grupy microsoftu
 365](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)<u>.</u>
 
-Wskazówka: Sprawdź aplikację Teams "Poproś o zespół"
+**Wskazówka:** Sprawdź przykładową aplikację Teams "Poproś o zespół"
 [<u>Request-a-team</u>](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates#request-a-team)
-[<u>-</u>](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates#request-a-team)
-Darmowy
-[<u>szablon</u>](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates#request-a-team)
-[<u>aplikacji</u>](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates#request-a-team)
 
-# Co to są wydarzenia na żywo?
+# Czym są Zdarzenia na żywo?
 
-Dzięki Teams Live Events użytkownicy w organizacji mogą emitować wideo i
-treści spotkań do dużych grup. Zobacz [<u>Co to są wydarzenia na żywo w
-usłudze Microsoft
-Teams</u>](https://docs.microsoft.com/en-us/microsoftteams/teams-live-events/what-are-teams-live-events)
+Dzięki Zdarzeniom na żywo (Teams Live Events) użytkownicy w organizacji
+mogą emitować wideo i treści spotkań do dużych grup. Zobacz artykuł
+[<u>Czym są wydarzenia na żywo w usłudze Microsoft
+Teams</u>](https://docs.microsoft.com/en-us/microsoftteams/teams-live-events/what-are-teams-live-events).
 
-# Czy mogę rozmawiać z użytkownikami zewnętrznymi w aplikacji Teams?
+# Czy mogę prowadzić chat z użytkownikami zewnętrznymi?
 
 Jeśli musisz komunikować się i współpracować z osobami spoza
 organizacji, możesz użyć Microsoft Teams External Access (znanego
 również jako federacja), aby znaleźć, zadzwonić i porozmawiać z
-użytkownikami w innych domenach (np. contoso.com).
+użytkownikami w innych organizacjach (np. contoso.com).
 
 Możesz spróbować wpisać na pasku wyszukiwania Teams adres e-mail
-użytkownika zewnętrznego. Jeśli osoba pojawi się, wybierz jej adres
-zewnętrzny i spróbuj porozmawiać.
+użytkownika zewnętrznego. Jeśli osoba pojawi się, wybierz jej adres i
+spróbuj porozmawiać.
 
 *UWAGA! Wymaga to włączenia* *niektórych opcji* *w* *odpowiednich
 organizacjach:*
@@ -1212,51 +1210,51 @@ organizacjach:*
 Microsoft
 Teams</u>*](https://docs.microsoft.com/en-us/microsoftteams/communicate-with-users-from-other-organizations)
 
-# Użyj spotlight, aby zwrócić uwagę kogoś podczas spotkania?
+# Do czego służy wyróżnianie w spotkaniu?
 
-Spotlighting czyjegoś okna wideo jest jak przypinanie go dla wszystkich
-w spotkaniu.
+Wyróżnianie czyjegoś okna wideo jest jak przypinanie go dla wszystkich w
+spotkaniu.
 
 Jeśli jesteś organizatorem lub prezenterem, możesz wybrać, że film
-wszystkich użytkowników (w tym własny) powinien być głównym filmem,
-który widzą uczestnicy.
+jednego z użytkowników (w tym własny) powinien być głównym filmem, który
+widzą uczestnicy spotkania.
 
 Istnieją dwa sposoby:
 
 -   Kliknij prawym przyciskiem myszy film tej osoby i wybierz z menu
-    pozycję **Spotlight.**
+    pozycję **Wyróżnij.**
 
 -   Możesz również znaleźć nazwisko osoby, którą chcesz wyróżnić w
     okienku uczestników. Kliknij prawym przyciskiem myszy lub kliknij
-    nazwę uczestnika i wybierz pozycję **Spotlight**. Gdy będziesz
-    gotowy do wyjścia z reflektora, kliknij prawym przyciskiem myszy
-    ponownie i wybierz pozycję Zakończ **reflektor**.
+    nazwę uczestnika i wybierz pozycję **Wyróżnij**. Gdy będziesz gotowy
+    do wyłączenia wyróżnienia, kliknij prawym przyciskiem myszy ponownie
+    i wybierz pozycję **Zakończ wyróżnianie**.
 
 # Kto może tworzyć wydarzenia na żywo?
 
-**Aby utworzyć wydarzenie na** żywo, osoba musi mieć następujące
-elementy: Licencja Microsoft/Office 365 Enterprise E3/A3lub E5/A5.
+Aby utworzyć wydarzenie na żywo, należy mieć przypisaną licencję
+Microsoft/Office 365 Enterprise E3/A3lub E5/A5.
 
 *(Administrator IT może podać więcej informacji)*
 
-**Następnie wymagane są następujące czynności:**
+**Następnie wymagane jest przeprowadzenie następujących kroków:**
 
-\- Uprawnienia do tworzenia wydarzeń na żywo w usłudze Microsoft Teams
-Admin Center.
+\- Nadanie uprawnienia do tworzenia wydarzeń na żywo w usłudze Microsoft
+Teams Admin Center.
 
-\- Uprawnienie do tworzenia wydarzeń na żywo w usłudze Microsoft Stream
-(dla zdarzeń wyprodukowanych przy użyciu zewnętrznej aplikacji lub
-sprzętu emisji).
+\- Nadanie uprawnienia do tworzenia wydarzeń na żywo w usłudze Microsoft
+Stream (dla zdarzeń wyprodukowanych przy użyciu zewnętrznej aplikacji
+lub sprzętu emisji).
 
-\- Pełne członkostwo w zespole w organizacji (nie może być gościem lub
-osobą z innej organizacji).
+\- Pełne członkostwo w zespole naszej organizacji (nie może być gościem
+lub osobą z innej organizacji).
 
 \- Planowanie spotkań prywatnych, udostępnianie ekranu i udostępnianie
 wideo po IP, włączone w zasadach spotkań Teams.
 
 Więcej informacji można znaleźć tutaj: [Wprowadzenie do wydarzeń na żywo
 w usłudze Microsoft
-Teams](https://support.microsoft.com/pl-pl/office/wprowadzenie-do-wydarze%c5%84-na-%c5%bcywo-w-aplikacji-microsoft-teams-d077fec2-a058-483e-9ab5-1494afda578a?ui=pl-PL&rs=pl-PL&ad=PL)
+Teams](https://support.microsoft.com/pl-pl/office/wprowadzenie-do-wydarze%c5%84-na-%c5%bcywo-w-aplikacji-microsoft-teams-d077fec2-a058-483e-9ab5-1494afda578a?ui=pl-PL&rs=pl-PL&ad=PL).
 
 # Kto może uczestniczyć w wydarzeniach na żywo?
 
@@ -1276,7 +1274,7 @@ Aby uzyskać więcej informacji, zobacz [Wprowadzenie do wydarzeń na żywo
 w usłudze Microsoft
 Teams](https://support.microsoft.com/pl-pl/office/wprowadzenie-do-wydarze%c5%84-na-%c5%bcywo-w-aplikacji-microsoft-teams-d077fec2-a058-483e-9ab5-1494afda578a?ui=pl-PL&rs=pl-PL&ad=PL).
 
-# Wymagania systemowe dotyczące zdarzeń na żywo?
+# Wymagania zdarzeń na żywo?
 
 **Obsługiwane systemy operacyjne:** Windows 7 i nowsze (32-bitowe i
 64-bitowe), macOS 10.10 lub nowsze.
@@ -1286,16 +1284,18 @@ i nowsze
 
 **Obsługiwane przeglądarki:** Microsoft Edge RS2 i nowsze, Chrome
 (najnowsze wersje 3), Firefox (najnowsze wersje 3),Internet Explorer 11,
-Safari.
+Safari. Więcej informacji w [artykule pomocy
+technicznej](https://support.microsoft.com/pl-pl/office/wprowadzenie-do-wydarze%C5%84-na-%C5%BCywo-w-aplikacji-microsoft-teams-d077fec2-a058-483e-9ab5-1494afda578a#bkmk_systemreq).
 
 # Jak przypiąć czat lub kanał?
 
-Możesz przypiąć czaty lub kanały na początku czatu lub listy zespołów.
+Możesz przypiąć czaty lub kanały na początku listy czatów lub listy
+zespołów.
 
-Wybierz Czat lub Zespołu. Znajdź nazwę konwersacji lub kanału, który
+Wybierz Czat lub Zespół. Znajdź nazwę konwersacji lub kanału, który
 chcesz przypiąć.
 
-Następnie wybierz **pozycję Więcej opcji "..."** \> **Przypnij**.
+Następnie wybierz **pozycję ...** \> **Przypnij**.
 
 Dzięki temu czat lub kanał pozostanie na początku listy.
 
@@ -1318,10 +1318,10 @@ samym czasie, w zależności od wyboru sceny.
 [Korzystanie z opcji wideo w aplikacji
 Teams](https://support.microsoft.com/pl-pl/office/korzystanie-z-klip%c3%b3w-wideo-w-aplikacji-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae?ui=pl-PL&rs=pl-PL&ad=PL).
 
-# Czy w Teams dostępna jest pomoc techniczna w przypadku niepełnosprawności? 
+# Czy aplikacja Teams wspiera ułatwienia dostępu? 
 
 Usługa Teams zapewnia wszystkim dostęp do potrzeb i wsparcia w zakresie
-spotkań, rozmów i współpracy zzespołami. [Tutaj znajdziesz
+spotkań, rozmów i współpracy z zespołami. [Tutaj znajdziesz
 zaktualizowany przegląd ułatwień dostępu w
 Teams.](https://support.microsoft.com/pl-pl/topic/om%C3%B3wienie-u%C5%82atwie%C5%84-dost%C4%99pu-w-aplikacji-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5?ui=en-us&rs=en-us&ad=us)
 
@@ -1338,76 +1338,73 @@ z dysleksją i trudnościami w uczeniu się.
 Słownik obrazu, fokus linii i klasy słów są również dostępne dla
 wizualnej obsługi.
 
-W przypadku dowolnej wiadomości w zespołach kliknij pozycję **Więcej**
-**options "..."** i wybierz opcję **Czytnik Immersyjny**.
+W przypadku dowolnej wiadomości w zespołach kliknij pozycję **"..."** i
+wybierz opcję **Czytnik Immersyjny**.
 
-# Co to jest Czytnik Immersyjny?
+# Czym jest Czytnik Immersyjny?
 
-[Kliknij tutaj, aby uzyskać przewodnik po Immersive Reader w zespołach
-(ze
+[Kliknij tutaj, aby uzyskać przewodnik po Czytniku Immersyjnym w
+zespołach (ze
 zdjęciami)](https://support.microsoft.com/pl-pl/topic/korzystanie-z-czytnika-immersyjnego-w-aplikacji-microsoft-teams-a700c0d0-bc53-4696-a94d-4fbc86ac7a9a?ui=en-us&rs=en-us&ad=us)
 
-Jeśli chcesz, aby tekst był czytany na głos lub mówił w innym języku,
-możesz zrobić tekst w odpowiednim sługach zespołu. Kolor, kształt,
+Jeśli chcesz, aby tekst był czytany na głos lub mówiony w innym języku,
+możesz zaznaczyć tekst w odpowiednim usługach zespołu. Kolor, kształt,
 rozmiar można dostosować do twoich preferencji, co na przykład ułatwia
 osobom z dysleksją i trudnościami w uczeniu się.
 
-Słownik obrazu, fokus linii i klasy słów są również dostępne dla
-wizualnej obsługi.
+Słownik obrazu, wyróżnianie linii i słów są również dostępne dla obsługi
+wizualnej.
 
 W przypadku dowolnej wiadomości w aplikacji Teams kliknij pozycję Więcej
-opcji "..." i wybierz immersyjny czytnik.
+opcji "..." i wybierz czytnik immersyjny.
 
-Wypróbuj na przykład ten komunikat. Ustawienia są unikalne dla Ciebie.
+# Gdzie mogę znaleźć cyfrowe materiały szkoleniowe dot. Teams?
 
-# Gdzie mogę znaleźć cyfrowe szkolenia w zespołach?
-
-Tutaj możesz skorzystać z:
-
-[Szkolenie wideo dla zespołów Microsoft
+Możesz skorzystać z [Szkolenie wideo dla zespołów Microsoft
 Teams](https://support.microsoft.com/pl-pl/office/microsoft-teams-%e2%80%94-film-szkoleniowy-4f108e54-240b-4351-8084-b1089f0d21d7?ui=pl-PL&rs=pl-PL&ad=PL)
 
 # Gdzie mogę znaleźć najnowsze wiadomości o Teams?
 
-Cieszę się, że jesteś ciekawy. Wystarczy wpisać "**/News**" w polu
+Cieszę się, że jesteś ciekawy. Wystarczy wpisać "**/Co nowego**" w polu
 wyszukiwania Teams!
 
 Możesz również kliknąć przycisk Pomoc w aplikacji Teams i wybrać opcję
-"Co to jest new".
+"Co nowego".
 
-*Proszę note! Być może organizacja zdecydowała się wyłączyć* *niektóre*
+**Uwaga:** *Być może organizacja zdecydowała się wyłączyć* *niektóre*
 *funkcje.*
 
-[Wszystkie nowe funkcje są również publikowane w sposób ciągły
-tutaj](https://support.microsoft.com/en-us/office/nyheter-i-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de#PickTab=Desktop_and_web)
-w internecie
+[Wszystkie nowe funkcje są również publikowane w sposób ciągły na
+stronach pomocy
+technicznej](https://support.microsoft.com/pl-pl/office/nowo%C5%9Bci-w-aplikacji-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de#PickTab=Desktop_and_web)
 
 Wybierz urządzenie, dla którego chcesz wyświetlać wiadomości.
 
-# Jak korzystać z pomieszczeń typu breakout?
+# Jak korzystać z pokojów spotkań?
 
-Pokoje są pomocne w wielu scenariuszach.
-[Sprawdź](https://support.microsoft.com/en-us/office/use-breakout-rooms-in-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461)
-[Sprawdź przewodnik, jak korzystać z pokoju typu
-breakout](https://support.microsoft.com/pl-pl/office/microsoft-teams-%e2%80%94-film-szkoleniowy-4f108e54-240b-4351-8084-b1089f0d21d7?ui=pl-PL&rs=pl-PL&ad=PL).
+Pokoje są pomocne w wielu scenariuszach organizacji spotkań w większych
+grupach. Tylko organizatorzy spotkań mogą tworzyć osobne pokoje i
+zarządzać nimi. [Sprawdź przewodnik, jak korzystać z osobnych pokojów
+podczas
+spotkań](https://support.microsoft.com/pl-pl/office/u%C5%BCywanie-osobnych-pokoj%C3%B3w-podczas-spotka%C5%84-w-us%C5%82udze-teams-7de1f48a-da07-466c-a5ab-4ebace28e461).
 
-**Czy usługa Teams jest wystarczająco bezpieczna dla moich informacji?**
+**Czy Teams jest wystarczająco bezpieczny dla moich danych?**
 
-[Zespoły oferują światowej klasy
-zabezpieczenia](https://www.microsoft.com/en-us/microsoft-teams/security)
+[Teams oferują światowej klasy
+zabezpieczenia](https://www.microsoft.com/pl-pl/microsoft-teams/security)
 i spełniają wymagania RODO oraz ponad 90 innych certyfikatów, w tym
 standardy ISO.
 
 *Należy pamiętać, że organizacja może mieć własne zasady dotyczące
 miejsca zapisywania poufnych informacji.*
 
-Twoje dane w usłudze Teams są już bezpieczne, ale w przypadku, gdy
-organizacja ma określone zasady, możesz pomóc/uniemożliwić użytkownikom
-zapisywanie poufnych informacji na czacie lub w plikach. Na przykład
-numery ubezpieczenia społecznego, numery paszportów UE, dane zdrowotne
-lub niestandardowa zawartość mogą być automatycznie uniemożliwiane
-udostępnianie w aplikacjach Teams. [Możesz przeczytać więcej o tym, jak
-pracodawca może go
+Twoje dane w usłudze Teams są bezpieczne, jednak w przypadku, gdy
+organizacja ma specyficzne wymogi i zasady bezpieczeństwa, możesz
+pomóc/uniemożliwić użytkownikom zapisywanie poufnych informacji na
+czacie lub w plikach. Na przykład numery ubezpieczenia społecznego,
+numery paszportów UE, dane zdrowotne lub niestandardowa zawartość mogą
+być automatycznie blokowane przed udostępnianiem w aplikacji Teams.
+[Możesz przeczytać więcej o tym, jak pracodawca może go
 skonfigurować.](https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide)
 
 **Jak korzystać z tablicy w zespołach?**
@@ -1444,36 +1441,68 @@ włączył.
 
 **Jak pracować zdalnie** **z dowolnego miejsca?**
 
-[Współpraca z platformą Microsoft
-365](https://support.office.com/article/collaborate-with-office-365-ac05a41e-0b49-4420-9ebc-190ee4e744f4)
-— jak lepiej współpracować we wszystkich obciążeniach usługi Microsoft
-365.
+O tym, jak lepiej współpracować we wszystkich aplikacjach usługi
+Microsoft 365 przeczytasz w artykule [Współpraca z platformą Microsoft
+365](https://support.microsoft.com/pl-pl/office/wsp%C3%B3%C5%82praca-z-dowolnego-miejsca-przy-u%C5%BCyciu-platformy-microsoft-365-ac05a41e-0b49-4420-9ebc-190ee4e744f4).
 
 **Czy mogę dostosować środowisko spotkania w aplikacji Teams?**
 
 Dostępnych jest kilka aplikacji dla spotkań zespołów. Umożliwiają one
-dostosowanie środowiska spotkania do swoich potrzeb.
-[Wyświetlanie](https://www.microsoft.com/en-us/microsoft-teams/meetings-apps)
-[aplikacji zaprojektowanych w celu poprawy spotkań
-zespołów](https://www.microsoft.com/en-us/microsoft-teams/meetings-apps).
+dostosowanie środowiska spotkania do swoich potrzeb. Informacje na temat
+aplikacji Teams do spotkań znajdziesz w [tym
+artykule](https://www.microsoft.com/pl-pl/microsoft-teams/meetings-apps).
 
 Jeśli jesteś programistą, możesz [utworzyć
 własną](https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings)
 aplikację do spotkań w
-[zespołach.](https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings)
+[Teams.](https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings)
 
 **Czy można zoptymalizować swoją sieć pod kątem usługi Microsoft
 Teams?**
 
 [Postępuj zgodnie z tym przewodnikiem, aby przygotować i zoptymalizować
-sieć organizacji
-dla](https://docs.microsoft.com/en-us/microsoftteams/prepare-network)zespołów.
+sieć organizacji dla
+Teams](https://docs.microsoft.com/en-us/microsoftteams/prepare-network).
 
 Ważne jest, aby zoptymalizować wydajność, zwłaszcza jeśli wiele osób w
 organizacji pracuje zdalnie. Dla administratorów Teams, Microsoft
-przygotował krótki
-[kurs](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-optimize-network/)
-na temat [optymalizacji
-sieci](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-optimize-network/)
-na platformie [Microsoft
+przygotował krótki kurs na temat optymalizacji sieci na platformie
+[Microsoft
 Learn](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-optimize-network/).
+
+**Jak stworzyć nowy kanał w zespole?**
+
+Na pasku bocznym aplikacji Teams kliknij pozycję **Zespoły**, wybierz
+zespół, w którym chcesz dodać kanał, a następnie kliknij **... \> Dodaj
+kanał**. Pojawi się okno dialogowe, w którym musisz podać nazwę nowego
+kanału, opis (opcjonalny) oraz poziom prywatności:
+
+-   **Standardowy** – kanał widoczny jest dla wszystkich osób w zespole
+
+-   **Prywatny** – kanał wybrany jest tylko dla wybranych osób
+
+Dodatkowo możemy zaznaczyć, czy kanał ma być domyślnie widoczny dla
+wszystkich użytkowników
+
+**UWAGA:** W roku 2021 wprowadzony będzie jeszcze jeden poziom
+prywatności – kanał udostępniony, współdzielony z osobami z innej
+organizacji Teams.
+
+Więcej informacji dostępne jest w [artykule pomocy
+technicznej](https://support.microsoft.com/pl-pl/topic/tworzenie-lub-obserwowanie-kana%C5%82u-w-aplikacji-microsoft-teams-przy-u%C5%BCyciu-czytnika-zawarto%C5%9Bci-ekranu-60f81fab-5a82-44ed-8b24-809353492b74).
+
+**Gdzie mogę znaleźć certyfikowane urządzenia Teams?**
+
+Na [stronie poświęconej urządzeniom dostarczanym do Teams przez
+partnerów
+technologicznych](https://www.microsoft.com/pl-pl/microsoft-teams/across-devices/devices)
+można znaleźć informacje zarówno o zestawach słuchawkowych,
+głośnomówiących, kamerach jak i bardziej zaawansowanym rozwiązaniom,
+wykorzystywanym w trakcie spotkań Teams.
+
+**Czym jest aplikacja Shifts w Teams?**
+
+Aplikacja Shifts jest narzędziem do zarządzania harmonogramami
+pracowników pierwszej linii w Microsoft Teams. Więcej informacji można
+znaleźć w artykule pomocy technicznej – [Początek pracy z aplikacją
+Shifts](https://support.microsoft.com/pl-pl/office/pocz%C4%85tek-pracy-z-aplikacj%C4%85-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6).
